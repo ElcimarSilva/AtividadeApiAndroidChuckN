@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">atividadeApi</string>
+    <string name="id">id:</string>
+    <string name="html_url">html_url</string>
+    <string name="login">Login:</string>
+    <string name="icone">Icone</string>
+    <string name="piada">Piada</string>
+</resources>
